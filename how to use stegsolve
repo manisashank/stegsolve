@@ -1,0 +1,1 @@
+stegsolve can be invoked by placing the image in the /bin folder created by us just now and run the command java -jar stegsolve.jar
